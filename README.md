@@ -43,8 +43,8 @@
 
 <!-- LINHA DO TEMPO -->
 ### ⏳ Linha do Tempo
-🚀 Onde comecei: Primeiro contato com programação em 2021 no técnico integrado ao ensino médio
-📚 Onde estou: desenvolvendo projetos em frontend com html, css e js, junto com projetos em backend como APIs Restful com Js e MySql
+🚀 Onde comecei: Primeiro contato com programação em 2021 no técnico integrado ao ensino médio <br>
+📚 Onde estou: desenvolvendo projetos em frontend com html, css e js, junto com projetos em backend como APIs Restful com Js e MySql <br>
 🌟 Onde quero chegar: me tornar desenvolvedor full stack autodidata
 
 ---
