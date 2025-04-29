@@ -5,7 +5,7 @@
 
 <!-- SAUDAÇÕES -->
 <h1 align="center">Olá, eu sou Felipe Gabriel Schmitt</h1>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistema | 18 anos </p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | 18 anos </p>
 
 ---
 
@@ -53,5 +53,5 @@
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Felipe-G-Schmitt&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-G-Schmitt&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-G-Schmitt&layout=compact&theme=radical" width="42%" />
 </div>
