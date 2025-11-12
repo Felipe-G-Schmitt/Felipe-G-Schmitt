@@ -5,7 +5,7 @@
 
 <!-- SAUDAÇÕES -->
 <h1 align="center">Olá, eu sou Felipe Gabriel Schmitt</h1>
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | 18 anos </p>
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas | 19 anos </p>
 
 ---
 
@@ -18,7 +18,7 @@
 
 <!-- PORTFÓLIO -->
 ### 🌍 Meu Portfólio
-[![GitHub Pages](https://img.shields.io/badge/Portfólio-100000?style=flat&logo=github&logoColor=white)](https://felipe-g-schmitt.github.io/Portfolio-pessoal/)
+[![GitHub Pages](https://img.shields.io/badge/Portfólio-100000?style=flat&logo=github&logoColor=white)](https://fepers.netlify.app/)
 
 ---
 
